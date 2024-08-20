@@ -44,4 +44,16 @@
   font-style: normal;
   font-size: 20px;
   padding: 20px 0px;
+}
+
+@media (max-width: 750px) {
+  .container div {
+    margin: 0px 10px;
+  }
+  .container p {
+    padding: 0px;
+  }
+  .container ul {
+    padding: 0px;
+  }
 }/*# sourceMappingURL=styles.css.map */
